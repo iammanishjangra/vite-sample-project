@@ -15,4 +15,3 @@ App will run on `http://localhost:4600`.
 docker build -t vite-docker-sample .
 docker run --rm -p 4600:4600 vite-docker-sample
 ```
-### Hello
