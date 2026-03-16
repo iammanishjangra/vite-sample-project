@@ -5,7 +5,7 @@ pipeline {
         stage('Code') {
             steps {
                 echo "Cloning Repository"
-                sh 'rm -rf vite-sample-project'
+                // sh 'rm -rf vite-sample-pipeline'
                 git url: 'https://github.com/iammanishjangra/vite-sample-project.git',
                 branch: 'main'
             }
