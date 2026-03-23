@@ -9,7 +9,7 @@ npm run dev
 
 App will run on `http://localhost:4600`.
 
-## Run with Docker
+## Run with Docker Container
 
 ```bash
 docker build -t vite-docker-sample .
