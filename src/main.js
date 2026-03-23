@@ -5,6 +5,7 @@ document.querySelector('#app').innerHTML = `
     <section class="card">
       <p class="eyebrow">Vite + Docker</p>
       <h1>Sample project running on port 4600</h1>
+      <h2>Manish Kumar</h2>
       <p class="copy">
         This app is ready to run locally with Vite or inside a Docker container.
       </p>
